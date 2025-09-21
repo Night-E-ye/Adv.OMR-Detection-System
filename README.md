@@ -35,6 +35,10 @@ Answer Keys
 answer_key.json → Used by app
   
     Key (Set A and B).xlsx → Reference version
+Screenshots
+<img width="1906" height="882" alt="image" src="https://github.com/user-attachments/assets/a97e0bc6-b16d-4d01-af08-fbfc4049c257" />
+<img width="1883" height="886" alt="image" src="https://github.com/user-attachments/assets/fdd335b6-8ccf-4c90-ad7e-332fd1264af3" />
+<img width="1912" height="898" alt="image" src="https://github.com/user-attachments/assets/6f831298-75b6-46b9-9791-4f6d05a0699e" />
 
 Author
 
