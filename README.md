@@ -43,3 +43,15 @@ Screenshots
 Author
 
 Durgesh Sharma
+
+## ⚠ Limitations & Future Work
+This project is a **skeleton implementation** of an OMR evaluation system.  
+The dataset used for testing has many noisy images — some are **blurry**, some are **rotated/not aligned vertically**, and others have **low resolution or pixel issues**. Because of this, **perfect detection is not guaranteed**.  
+
+The current code provides a working baseline, but there is plenty of room for improvement:
+- Better preprocessing to handle tilted or rotated sheets
+- Noise removal for low-quality scans
+- Adaptive bubble detection for variable lighting and printing
+- Integration with larger, cleaner datasets
+
+Think of this as a **starting point** for future development rather than a final production tool.
